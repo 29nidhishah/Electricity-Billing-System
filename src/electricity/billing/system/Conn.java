@@ -4,7 +4,7 @@ import java.sql.*;
 public class Conn 
 {
     Connection c;
-    Statement s;
+    Statement s; 
     
     Conn()
     {
